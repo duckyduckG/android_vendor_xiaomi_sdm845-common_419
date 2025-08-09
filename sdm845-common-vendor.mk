@@ -198,7 +198,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.bluetooth_sar@1.1 \
     vendor.qti.hardware.vpp@1.1 \
     vendor.qti.hardware.vpp@1.2 \
-    audio.primary.sdm845 \
     sound_trigger.primary.sdm845 \
     libFileMux_proprietary \
     fm_helium \
@@ -208,30 +207,20 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.fm@1.0_vendor \
     libOmxVideoDSMode \
     libOmxVpp \
-    liba2dpoffload \
     libacdb-fts \
     libacdbrtac \
     libadiertac \
     libadm \
     libadpcmdec \
     libaudcal \
-    libaudio_log_utils \
-    libaudioalsa \
     libaudioparsers \
-    libaudioroute_ext \
-    libbatterylistener \
     libcapiv2svacnn \
     libcapiv2vop \
-    libcomprcapture \
-    libexthwplugin \
     libfastcrc \
     libgcs-calwrapper \
     libgcs-ipc \
     libgcs-osal \
     libgcs \
-    libhdmiedid \
-    libhdmipassthru \
-    libhfp \
     liblistenjni \
     liblistensoundmodel2 \
     libmmosal_vendor \
@@ -240,8 +229,6 @@ PRODUCT_PACKAGES += \
     libmulawdec \
     libqtigef \
     libsmwrapper \
-    libsndmonitor \
-    libspkrprot \
     libwfdcodecv4l2_proprietary \
     libwfdcommonutils_proprietary \
     libwfdconfigutils_proprietary \
@@ -267,7 +254,6 @@ PRODUCT_PACKAGES += \
     libshoebox \
     vendor.qti.hardware.wifidisplaysession@1.0_vendor \
     vendor.qti.hardware.wifidisplaysessionl@1.0-halimpl \
-    libxlog \
     com.qualcomm.qti.dpm.api@1.0_vendor \
     com.qualcomm.qti.imscmservice@1.0 \
     com.qualcomm.qti.imscmservice@2.0 \
