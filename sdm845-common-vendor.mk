@@ -198,6 +198,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.bluetooth_sar@1.1 \
     vendor.qti.hardware.vpp@1.1 \
     vendor.qti.hardware.vpp@1.2 \
+    sound_trigger.primary.sdm845 \
     libFileMux_proprietary \
     fm_helium \
     libfm-hci \
