@@ -6254,6 +6254,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/libQSEEComAPI.so",
             ],
             shared_libs: [
+                "libion",
                 "libcutils",
                 "libutils",
                 "liblog",
