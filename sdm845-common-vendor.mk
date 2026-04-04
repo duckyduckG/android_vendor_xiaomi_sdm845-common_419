@@ -188,14 +188,12 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.vpp@1.1 \
     vendor.qti.hardware.vpp@1.2 \
     btaudio_offload_if \
-    audio.primary.sdm845 \
     sound_trigger.primary.sdm845 \
     vendor.qti.hardware.bluetooth_audio@2.0-impl \
     vendor.qti.hardware.bluetooth_audio@2.1-impl \
     libFileMux_proprietary \
     libOmxVideoDSMode \
     libOmxVpp \
-    liba2dpoffload \
     libacdb-fts \
     libacdbrtac \
     libadiertac \
